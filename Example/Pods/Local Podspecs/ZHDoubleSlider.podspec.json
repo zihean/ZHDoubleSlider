@@ -1,0 +1,22 @@
+{
+  "name": "ZHDoubleSlider",
+  "version": "0.1.0",
+  "summary": "A short description of ZHDoubleSlider.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zihean/ZHDoubleSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zihean": "anzihe@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/zihean/ZHDoubleSlider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZHDoubleSlider/Classes/**/*"
+}

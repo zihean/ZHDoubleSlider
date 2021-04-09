@@ -1,0 +1,6 @@
+framework module ZHDoubleSlider {
+  umbrella header "ZHDoubleSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
